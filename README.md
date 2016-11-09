@@ -8,4 +8,6 @@ In this code, we will try to accomplish the following modules:
   
   2, a ship performance (fatigue/fuel) model
   
-  3, a dynamic programming combined with genetic optimisation 
+  3, a dynamic programming combined with genetic optimisation
+
+First, we will have to learn how to use python 
