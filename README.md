@@ -10,4 +10,5 @@ In this code, we will try to accomplish the following modules:
   
   3, a dynamic programming combined with genetic optimisation
 
-First, we will have to learn how to use python 
+First, we will have to learn how to use python
+Second, we need to know a bit about the mathematical optimisation algorithm 
